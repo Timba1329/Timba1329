@@ -5,14 +5,16 @@ Welcome to my digital universe. I'm **Tim Mestrum**, a back-end developer with a
 
 ## About Me
 
+I focus on back-end development and Laravel to craft efficient and impactful solutions. Beyond coding, I enjoy mentoring teams, managing workflows, and delivering meaningful user experiences. Here's a quick snapshot:
+
 ```json
-const aboutMe = {
-  name: "Tim Mestrum",
-  role: "Software Developer (Back-End Focus)",
-  skills: ["PHP", "HTML", "CSS", "JavaScript", "Tailwind", "Laravel", "SQL", "Python", "C#"],
-  passions: ["Improving my skills in Laravel", "Building tools for user impact", "Team leadership"],
-  contact: "tim.mestrum@gmail.com",
-};
+{
+  "name": "Tim Mestrum",
+  "role": "Software Developer (Back-End Focus)",
+  "skills": ["PHP", "HTML", "CSS", "JavaScript", "Tailwind", "Laravel", "SQL", "Python", "C#"],
+  "passions": ["Improving my skills in Laravel", "Building tools for user impact", "Team leadership"],
+  "contact": "tim.mestrum@gmail.com"
+}
 ```
 
 ## 🛠️ Skills
@@ -25,22 +27,23 @@ const aboutMe = {
 
 Here are some of the projects I've built:
 
-- **Ticket System**: A customizable and efficient ticketing system to streamline issue management. *(Private Repository)*
+- **Ticket System**: A customizable and efficient ticketing system to streamline issue management.
+- **DartScores App**: An engaging dart scoring app offering live score updates and detailed player statistics.
+- **Hearing Test**: A tailored web application for conducting and analyzing hearing tests.
+- **Portfolio Websites**: Elegant and responsive portfolio websites to showcase professional achievements.
 
-- **DartScores App**: An engaging dart scoring app offering live score updates, detailed player statistics, and more. *(Private Repository)*
-
-- **Hearing Test**: A tailored web application for conducting and analyzing hearing tests. *(Private Repository)*
-
-- **Portfolio Websites**: Elegant and responsive portfolio websites to showcase professional achievements. *(Private Repository)*
+*Note: These projects are currently private.*
 
 ## 🌐 Connect with Me
 
-- [Instagram](https://instagram.com)
-- [Snapchat](https://www.snapchat.com)
-- [GitHub](https://github.com)
-- [LinkedIn](https://www.linkedin.com)
-- [Discord](https://discord.com)
+- [Instagram](https://instagram.com/tim.mestrum)
+- [Snapchat](https://www.snapchat.com/add/timba2004)
+- [GitHub](https://github.com/Timba1329)
+- [LinkedIn](https://www.linkedin.com/in/tim-mestrum-058512225/)
+- [Discord](https://discord.com/users/457180037679153162)
 
 Feel free to reach out via email at [tim.mestrum@gmail.com](mailto:tim.mestrum@gmail.com).
 
 ---
+
+*This README was inspired by the content of my [personal portfolio website](https://timmestrum.nl).*
