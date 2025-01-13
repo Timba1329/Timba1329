@@ -37,7 +37,6 @@ Here are some of the projects I've built:
 ## 🌐 Connect with Me
 
 - [Instagram](https://instagram.com/tim.mestrum)
-- [Snapchat](https://www.snapchat.com/add/timba2004)
 - [GitHub](https://github.com/Timba1329)
 - [LinkedIn](https://www.linkedin.com/in/tim-mestrum-058512225/)
 - [Discord](https://discord.com/users/457180037679153162)
