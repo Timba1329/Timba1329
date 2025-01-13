@@ -42,7 +42,3 @@ Here are some of the projects I've built:
 - [Discord](https://discord.com/users/457180037679153162)
 
 Feel free to reach out via email at [tim.mestrum@gmail.com](mailto:tim.mestrum@gmail.com).
-
----
-
-*This README was inspired by the content of my [personal portfolio website](https://timmestrum.nl).*
