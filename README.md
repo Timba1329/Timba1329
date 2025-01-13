@@ -21,7 +21,7 @@ I focus on back-end development and Laravel to craft efficient and impactful sol
 
 - **Languages**: PHP, HTML, CSS, JavaScript, SQL, Python, C#
 - **Frameworks**: Laravel, Tailwind CSS
-- **Tools**: Git, Docker, MySQL, VS Code
+- **Tools**: Git, Docker, MySQL, PHPstorm
 
 ## 🚀 Projects
 
